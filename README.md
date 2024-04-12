@@ -1,5 +1,13 @@
 # Fine_Tuning_Llama2_7b_coustom_data
 Fine-tuning Llama2 Model with Custom Data
+
+Original data: https://huggingface.co/datasets/timdettmers/openassistant-guanaco?row=0
+
+Reformat Data 1K sample: https://huggingface.co/datasets/mlabonne/guanaco-llama2-1k?row=2
+
+Complete Reformat Data: https://huggingface.co/datasets/mlabonne/guanaco-llama2
+
+
 ## Introduction
 ### Fine-tuning   
 Fine-tuning is a technique used in machine learning to adapt a pre-trained model to a specific task or domain. It involves taking a model that has already been trained on a large dataset for a general task and further training it on a smaller, task-specific dataset. Fine-tuning leverages transfer learning, where knowledge gained from training on one task is transferred to a related task, allowing the model to learn task-specific patterns.
