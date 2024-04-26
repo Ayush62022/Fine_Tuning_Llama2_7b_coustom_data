@@ -33,7 +33,7 @@ Several parameters are defined to customize the fine-tuning process. These param
 #### Model and Dataset Names:  
 Names of the pre-trained Llama2 model and the dataset used for fine-tuning.
 #### LoRA Parameters: 
-Parameters related to LoRA (Locally Recurrent Aggregations) configuration, including attention dimension, alpha parameter, and dropout probability.
+Parameters related to LoRA (Low Rank Adoption) configuration, including attention dimension, alpha parameter, and dropout probability.
 #### BitsandBytes Configuration: 
 Parameters for configuring 4-bit precision base model loading, such as compute data type and quantization type.
 #### Training Arguments: 
